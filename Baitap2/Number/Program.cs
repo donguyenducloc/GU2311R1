@@ -60,7 +60,7 @@ class Program
             break;
           }
         }
-        else if(cout<99)
+        else if(cout<100)
         {
            int chuc = (int) cout/10;
             int dv   = (int) cout%10;
